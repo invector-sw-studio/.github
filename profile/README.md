@@ -1,5 +1,5 @@
 Hi there 👋
-##🧙 We are inVector Software Studio
+🧙 We are inVector Software Studio
 
 What is inVector Software Studio?
 🙋‍♀️Cafundó Software Studio is a friendly software company made by friends who care for each other.
